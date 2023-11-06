@@ -106,7 +106,7 @@ CREATE TABLE `is_users` (
 --
 
 INSERT INTO `is_users` (`id_user`, `username`, `nama_user`, `password`, `email`, `telepon`, `foto`, `hak_akses`, `status`, `created_at`, `updated_at`) VALUES
-(1, 'Azilzah', 'Azilzah Nur Zanafa', '41504508b3cec65b1313905001118579', 'Zanafa@gmail.com', '085669919769', 'Zilzah.jpeg', 'Super Admin', 'aktif', '2023-10-30 08:15:15', '2023-10-30 08:15:15'),
+(1, 'Azilzah', 'Azilzah Nur Zanafa', '202cb962ac59075b964b07152d234b70', 'Zanafa@gmail.com', '085669919769', 'Zilzah.jpeg', 'Super Admin', 'aktif', '2023-10-30 08:15:15', '2023-10-30 08:15:15'),
 (2, 'Afrian', 'Rafi Afrian', '202cb962ac59075b964b07152d234b70', 'Afrian@gmail.com', '085680892909', 'Afrian.png', 'Manajer', 'aktif', '2023-10-30 08:15:15', '2023-10-30 08:15:15'),
 (3, 'Team5', 'team5', '202cb962ac59075b964b07152d234b70', 'Team5@gmail.com', '085758858855', 'Aca.jpeg', 'Gudang', 'aktif', '2023-10-30 08:15:15', '2023-10-30 08:15:15');
 
